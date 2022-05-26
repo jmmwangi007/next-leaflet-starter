@@ -15,7 +15,7 @@
     "next": "12.0.10",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-leaflet": "^4.0.0",
+    "react-leaflet": "^4.0.0"
   },
   "repository": {
     "type": "git",
